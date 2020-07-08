@@ -1,0 +1,5 @@
+{
+    "warehouse": "",
+    "defaultSchema": "dataform",
+    "assertionSchema": "dataform_assertions"
+}
