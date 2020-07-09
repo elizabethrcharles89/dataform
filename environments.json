@@ -1,9 +1,9 @@
 {
     "environments": [
         {
-            "name": "production",
+            "name": "production-blah",
             "configOverride": {},
-            "gitRef": "master"
+            "gitRef": "doesnotexist"
         }
     ]
 }
