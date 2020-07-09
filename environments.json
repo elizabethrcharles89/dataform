@@ -2,7 +2,7 @@
     "environments": [
         {
             "name": "production-blah",
-            "configOverride": {},
+            "configOverride": {}
             "gitRef": "doesnotexist"
         }
     ]
